@@ -10,7 +10,5 @@
 require_once('./core/indexRouter.php');
 
 
-
-
 $ir = new indexRouter;
 $ir -> controller();
